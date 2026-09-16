@@ -1,0 +1,6 @@
+{
+  "project": "factory-blackout-recovery",
+  "decisions": ["auto_resume", "inspection_required", "scrap", "insufficient_evidence"],
+  "action_states": ["blocked", "ready", "executing", "completed", "review_required"],
+  "command_results": ["accepted", "duplicate", "stale", "dependency_blocked"]
+}
